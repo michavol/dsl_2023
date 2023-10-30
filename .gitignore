@@ -1,0 +1,4 @@
+# Ignore dslab-tool and cmake files
+dslab-tool/
+
+ground_truth_generation/build
