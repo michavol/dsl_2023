@@ -45,6 +45,12 @@
         "ostream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "sstream": "cpp",
+        "fstream": "cpp",
+        "chrono": "cpp",
+        "ctime": "cpp",
+        "ratio": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/mike/Masters_DS/dsl_2023_all/dsl_2023/ground_truth_generation"
 }

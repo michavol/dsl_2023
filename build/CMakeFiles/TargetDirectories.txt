@@ -1,0 +1,3 @@
+/home/mike/Masters_DS/dsl_2023_all/dsl_2023/build/CMakeFiles/droplet_simulation.dir
+/home/mike/Masters_DS/dsl_2023_all/dsl_2023/build/CMakeFiles/edit_cache.dir
+/home/mike/Masters_DS/dsl_2023_all/dsl_2023/build/CMakeFiles/rebuild_cache.dir

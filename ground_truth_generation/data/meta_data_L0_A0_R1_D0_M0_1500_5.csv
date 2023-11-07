@@ -1,0 +1,4 @@
+Simulation started
+Simulation finished
+number_of_frames,number_of_recordings,num_droplets,screen_width,screen_height,droplet_radius,max_random_velocity,max_intrinsic_velocity,disappearing_droplets,disappear_probability,attraction_points,attraction_movement,num_attractions,attraction_radius,attraction_strength,attraction_strength_droplets,attraction_speed,repulsion_points,repulsion_movement,num_repulsions,repulsion_radius,repulsion_strength,repulsion_strength_droplets,larger_droplet,larger_droplet_radius,larger_droplet_speed_x,larger_droplet_speed_y,larger_droplet_start_x,larger_droplet_start_y,location_data_file,meta_data_file,total_runtime,runtime_per_frame
+50,50,1500,500,500,5.8,0.05,0,0,0.3,0,0,4,100,0.2,0.03,1,1,1,20,50,0.02,0.015,0,40,0.3,0.1,100,166.667,../data/loc_data_L0_A0_R1_D0_M0_1500_5.csv,../data/meta_data_L0_A0_R1_D0_M0_1500_5.csv,42,0.84

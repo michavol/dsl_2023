@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mike/Masters_DS/dsl_2023_all/dsl_2023/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -g -o CMakeFiles/droplet_simulation.dir/droplet_simulation.cpp.o -c /home/mike/Masters_DS/dsl_2023_all/dsl_2023/ground_truth_generation/droplet_simulation.cpp",
+  "file": "/home/mike/Masters_DS/dsl_2023_all/dsl_2023/ground_truth_generation/droplet_simulation.cpp"
+}
+]

@@ -4,11 +4,17 @@ cmake_minimum_required(VERSION 3.10)
 
 project(ground_truth_generation)
 
-# Add the executable
-add_executable(data_generation data_generation.cpp)
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE Release)
+endif()
 
+set(CMAKE_CXX_FLAGS "-Wall -Wextra")
+set(CMAKE_CXX_FLAGS_DEBUG "-g")
+set(CMAKE_CXX_FLAGS_RELEASE "-O3")
+
+# Add the executable
+add_executable(droplet_simulation droplet_simulation.cpp)
+
+#add_executable(droplet_simulation_2 droplet_simulation_2.cpp)
 # # Link any necessary libraries
 # target_link_libraries(data_generation ${REQUIRED_LIBRARIES})
-
-# # Set any necessary compile options
-# target_compile_options(data_generation PRIVATE ${REQUIRED_COMPILE_OPTIONS})
