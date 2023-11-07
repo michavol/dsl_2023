@@ -2,7 +2,7 @@
 dslab-tool/
 
 ground_truth_generation/build
-ground_truth_generation/droplet_simulation_2.cpp
 ground_truth_generation/data_generation.ipynb
+ground_truth_generation/droplet_simulation_2.cpp
 # Ignore build files
 

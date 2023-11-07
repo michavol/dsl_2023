@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wall -Wextra -g CMakeFiles/droplet_simulation_2.dir/droplet_simulation_2.cpp.o -o droplet_simulation_2 
